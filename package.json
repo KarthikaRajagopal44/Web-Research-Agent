@@ -1,0 +1,13 @@
+{
+    "name": "web-research-agent",
+    "version": "1.0.0",
+    "description": "Web Research Agent for analyzing queries, searching the web, and synthesizing information",
+    "private": true,
+    "scripts": {
+      "build": "pip install -r requirements.txt"
+    },
+    "engines": {
+      "node": ">=18.0.0"
+    }
+  }
+  
